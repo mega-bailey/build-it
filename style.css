@@ -1,0 +1,15 @@
+html {
+  font-family: 'Ubuntu', 'sans-serif';
+}
+
+.bold {
+  font-family: 'Lexend Tera', 'sans-serif' !important;
+}
+
+.upcase {
+  text-transform: uppercase;
+}
+
+.brand-logo {
+  padding-left: 1rem !important;
+}
